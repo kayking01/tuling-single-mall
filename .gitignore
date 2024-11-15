@@ -31,3 +31,12 @@ replay_pid*
 *.iml
 *.ipr
 .mvn/
+
+.idea/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+*.iws
+*.iml
+*.ipr
+.mvn/
